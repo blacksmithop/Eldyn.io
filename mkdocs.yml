@@ -1,9 +1,9 @@
 site_name: Eldyn.io Docs
 nav:
-  - Home: docs/index.md
-  - Lore: docs/pages/lore/index.md
+  - Home: index.md
+  - Lore: pages/lore/index.md
   - API:
-    - Overview: docs/pages/api/index.md
-    - Authentication: docs/pages/api/authentication.md
-    - User: docs/pages/api/user.md
-    - Leaderboard: docs/pages/api/leaderboard.md
+    - Overview: pages/api/index.md
+    - Authentication: pages/api/authentication.md
+    - User: pages/api/user.md
+    - Leaderboard: pages/api/leaderboard.md
